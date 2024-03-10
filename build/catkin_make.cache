@@ -1,0 +1,2 @@
+ROS-TCP-Endpoint:common_msgs/actionlib_msgs:common_msgs/common_msgs:common_msgs/diagnostic_msgs:common_msgs/geometry_msgs:common_msgs/nav_msgs:common_msgs/sensor_msgs:common_msgs/shape_msgs:common_msgs/stereo_msgs:common_msgs/trajectory_msgs:common_msgs/visualization_msgs:thruster_ctrl:thruster_joy_ctrl:thruster_keyb_ctrl
+-DCATKIN_DEVEL_PREFIX=/home/walter1092/Desktop/workspace/devel -DCMAKE_INSTALL_PREFIX=/home/walter1092/Desktop/workspace/install -G Unix Makefiles

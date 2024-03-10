@@ -1,0 +1,8 @@
+prefix=/home/walter1092/Desktop/workspace/install
+
+Name: thruster_ctrl
+Description: Description of thruster_ctrl
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

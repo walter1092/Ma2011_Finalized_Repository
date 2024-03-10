@@ -1,0 +1,8 @@
+prefix=/home/walter1092/Desktop/workspace/install
+
+Name: thruster_keyb_ctrl
+Description: Description of thruster_keyb_ctrl
+Version: 1.0.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

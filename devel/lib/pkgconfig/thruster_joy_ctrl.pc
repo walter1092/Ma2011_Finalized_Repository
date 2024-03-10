@@ -1,0 +1,8 @@
+prefix=/home/walter1092/Desktop/workspace/devel
+
+Name: thruster_joy_ctrl
+Description: Description of thruster_joy_ctrl
+Version: 1.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,7 @@
+<launch>
+  <!-- Start ROS publisher "teleop_twist_keyboard.py" -->
+  <node name="teleop_twist_keyboard" pkg="teleop_twist_keyboard" type="teleop_twist_keyboard.py" output="screen"/>
+
+  <!-- Start ROS subscriber "thruster_keyb_ctrl.py" -->
+  <node name="thruster_keyb_ctrl" pkg="thruster_keyb_ctrl" type="thruster_keyb_ctrl.py" output="screen" />
+</launch>

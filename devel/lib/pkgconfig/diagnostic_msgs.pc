@@ -1,0 +1,8 @@
+prefix=/home/walter1092/Desktop/workspace/devel
+
+Name: diagnostic_msgs
+Description: Description of diagnostic_msgs
+Version: 1.13.1
+Cflags: -I/home/walter1092/Desktop/workspace/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs
