@@ -33,6 +33,11 @@ Note: These files may or may not be necessary for the full functionality of the 
 - ROS1 Version: Noetic
 - Ubuntu Version: 20.04
 
+## Related Repositories
+
+- [MA2011 Miscellaneous Workspace](https://github.com/walter1092/MA2011-miscellaneous)
+  This repository contains additional workspace and files related to the MA2011 project.
+
 ## Contact
 
 If you need assistance or have any questions, please contact Walter on Telegram at @GoldenHale
