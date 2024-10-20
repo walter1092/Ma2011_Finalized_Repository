@@ -29,8 +29,7 @@ Note: These files may or may not be necessary for the full functionality of the 
 
 ## Additional Notes
 
-- This project uses [specify Unity version if important]
-- [Any other relevant information about your project]
+- This project uses Unity version 2022.3.19f1 (244b723c30a6)
 
 ## Contact
 
