@@ -1,7 +1,7 @@
 # MA2011 Completed Project
 
 ## Project Overview
-[Brief description of your project]
+The whole point of this project, as I assumed it may be the same throughout the years, is to make a digital twin of something. A digital twin, as defined by IBM is "a virtual representation of an object or system designed to reflect a physical object accurately. It spans the object's lifecycle, is updated from real-time data and uses simulation, machine learning and reasoning to help make decisions."[[1]](#1) This repository serves as reference for all who are 1) in NTU Singapore(Nanyang Technological University) and 2) are taking the MA2011 MECHATRONICS SYS INTERFACING module.
 
 ## Unity Project Access
 The password to access the Unity project is: 00000000
@@ -34,3 +34,7 @@ Note: These files may or may not be necessary for the full functionality of the 
 ## Contact
 
 If you need assistance or have any questions, please contact Walter on Telegram at @GoldenHale
+
+## References
+<a id="1">[1]</a> 
+https://www.ibm.com/topics/what-is-a-digital-twin
