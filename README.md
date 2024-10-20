@@ -1,5 +1,11 @@
 # MA2011 Completed Project
 
+## Project Overview
+[Brief description of your project]
+
+## Unity Project Access
+The password to access the Unity project is: 00000000
+
 ## Large Files Not Included in Repository
 
 Due to GitHub's file size limitations, the following large files have been excluded from this repository:
@@ -18,9 +24,15 @@ Due to GitHub's file size limitations, the following large files have been exclu
 
 1. Clone the repository
 2. Open the Unity project
-3. Unity should regenerate necessary Library files
-4. If you encounter any issues with missing files, please refer to the list above and contact the repository owner if needed.
+3. When prompted, enter the password: 00000000
+4. Unity should regenerate necessary Library files
+5. If you encounter any issues with missing files, please refer to the list above and contact the repository owner if needed.
 
 ## Additional Notes
 
-[Add any other relevant information about your project here]# MA2011Project
+- This project uses [specify Unity version if important]
+- [Any other relevant information about your project]
+
+## Contact
+
+If you need access to any of the excluded large files or have any questions, please contact [your contact information or how to reach you].
