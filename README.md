@@ -30,6 +30,8 @@ Note: These files may or may not be necessary for the full functionality of the 
 ## Additional Notes
 
 - This project uses Unity version 2022.3.19f1 (244b723c30a6)
+- ROS1 Version: Noetic
+- Ubuntu Version: 20.04
 
 ## Contact
 
